@@ -1,7 +1,7 @@
  Customer Behaviour Analysis
 
  Overview
-This project is an end‑to‑end **data** analytics case study focused on understanding customer purchasing behaviour for a retail business. It follows a complete workflow used in real analytics teams: data extraction, cleaning, exploratory data analysis (EDA), SQL-based business queries, interactive dashboarding in Power BI, and final presentation using Gamma. [youtube](https://www.youtube.com/watch?v=5PrZvPeUw60)
+This project is an end‑to‑end **data** analytics case study focused on understanding customer purchasing behaviour for a retail business. It follows a complete workflow used in real analytics teams: data extraction, cleaning, exploratory data analysis (EDA), SQL-based business queries, interactive dashboarding in Power BI.
 
 Key objectives:
 - Identify high‑value customers and key revenue drivers.
@@ -19,8 +19,7 @@ You can find the raw data in the `data/` folder and the processed data in the `o
 - Python (pandas, numpy, matplotlib/seaborn, SQLAlchemy) for data loading, cleaning, and EDA.  
 - SQL (PostgreSQL/MySQL/SQL Server) for analytical queries and business logic.  
 - Power BI for building interactive dashboards and KPI views. [github](https://github.com/Pooja-2891/customer_behaviour_data)
-- Gamma for creating the final presentation deck and storytelling around insights. [o8](https://www.o8.agency/blog/unleash-your-marketing-productivity-ai-marketing-tools-gammaapp-review)
-- Git & GitHub for version control and portfolio hosting. [youtube](https://www.youtube.com/watch?v=5PrZvPeUw60)
+
 
  Project Steps
 1. Problem Understanding  
@@ -51,9 +50,9 @@ You can find the raw data in the `data/` folder and the processed data in the `o
    - Connected Power BI to the SQL database / cleaned CSV output.  
    - Built interactive visuals to monitor KPIs and drill down into customer and product performance. [github](https://github.com/Pooja-2891/customer_behaviour_data)
 
-7. Reporting & Presentation (Gamma)  
+7. Reporting & Presentation 
    - Summarised findings, insights, and recommendations in a structured report.  
-   - Created an AI‑assisted presentation in Gamma to present the story to stakeholders, using key visuals from Python, SQL, and Power BI. [gamma](https://gamma.app)
+   - Created an AI‑assisted presentation in Gamma to present the story to stakeholders, using key visuals from Python, SQL, and Power BI.
 
 Dashboard
 The Power BI report provides:  
