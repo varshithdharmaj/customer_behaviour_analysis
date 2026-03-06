@@ -18,12 +18,12 @@ You can find the raw data in the `data/` folder and the processed data in the `o
  Tools
 - Python (pandas, numpy, matplotlib/seaborn, SQLAlchemy) for data loading, cleaning, and EDA.  
 - SQL (PostgreSQL/MySQL/SQL Server) for analytical queries and business logic.  
-- Power BI for building interactive dashboards and KPI views. [github](https://github.com/Pooja-2891/customer_behaviour_data)
+- Power BI for building interactive dashboards and KPI views.
 
 
  Project Steps
 1. Problem Understanding  
-   - Defined the business problem: analyse customer behaviour to improve marketing, retention, and revenue. [github](https://github.com/samruddhi3012/Customer-Behavior-Analysis)
+   - Defined the business problem: analyse customer behaviour to improve marketing, retention, and revenue. 
 
 2. Data Loading (Python)  
    - Imported the dataset using pandas.  
@@ -36,19 +36,18 @@ You can find the raw data in the `data/` folder and the processed data in the `o
 
 4. Exploratory Data Analysis (EDA)  
    - Analysed customer demographics, order patterns, and product performance.  
-   - Generated visualisations for revenue trends, top products, customer segments, payment methods, and other key metrics. [github](https://github.com/samruddhi3012/Customer-Behavior-Analysis)
-
+   - Generated visualisations for revenue trends, top products, customer segments, payment methods, and other key metrics.
 5. SQL Analysis  
    - Loaded cleaned data into a relational database (PostgreSQL/MySQL/SQL Server).  
    - Wrote SQL queries to answer business questions, for example:  
      - Top‑spending customers and their characteristics.  
      - Monthly/quarterly revenue trends.  
      - Best‑selling products and categories.  
-     - Customer retention and repeat purchase behaviour. [youtube](https://www.youtube.com/watch?v=lHR1_j8DYFA)
+     - Customer retention and repeat purchase behaviour. 
 
 6. Power BI Dashboard  
    - Connected Power BI to the SQL database / cleaned CSV output.  
-   - Built interactive visuals to monitor KPIs and drill down into customer and product performance. [github](https://github.com/Pooja-2891/customer_behaviour_data)
+   - Built interactive visuals to monitor KPIs and drill down into customer and product performance. 
 
 7. Reporting & Presentation 
    - Summarised findings, insights, and recommendations in a structured report.  
@@ -61,15 +60,14 @@ The Power BI report provides:
 - Product and category analysis page (top sellers, margins, cross‑sell opportunities).  
 - Time series page (monthly trends, seasonality, campaign impact).  
 
-Exported screenshots or the `.pbix` file can be found in the `dashboard/` folder (update with your actual path). [github](https://github.com/Pooja-2891/customer_behaviour_data)
+Exported screenshots or the `.pbix` file can be found in the `dashboard/` folder (update with your actual path). 
 
 Results and Insights
 Some of the key outcomes from the analysis (adapt with your actual numbers):  
-- Identified top customer segments contributing the majority of revenue and their preferred product categories. [github](https://github.com/sadiqimam/customer-behavior-analysis/blob/main/README.md)
-- Uncovered under‑performing products and periods with declining sales, informing promotional strategies. [github](https://github.com/arko-saha/Customer-behavior-analysis-in-a-hotel-franchise-management-system/blob/main/README.md)
-- Quantified the impact of discounts, payment methods, and subscription status on order value and retention. [github](https://github.com/sadiqimam/customer-behavior-analysis/blob/main/README.md)
-- Delivered clear recommendations to optimise marketing spend, improve cross‑selling, and increase customer lifetime value. [github](https://github.com/samruddhi3012/Customer-Behavior-Analysis)
-
+- Identified top customer segments contributing the majority of revenue and their preferred product categories. 
+- Uncovered under‑performing products and periods with declining sales, informing promotional strategies. 
+- Quantified the impact of discounts, payment methods, and subscription status on order value and retention. 
+- Delivered clear recommendations to optimise marketing spend, improve cross‑selling, and increase customer lifetime value.
 How to Run
 
  1. Clone the Repository
